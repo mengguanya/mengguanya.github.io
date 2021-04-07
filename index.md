@@ -1,2 +1,2 @@
 readme 
-http://mengguanya.github.io/
+https://github.com/
